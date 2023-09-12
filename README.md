@@ -1,7 +1,7 @@
 # __Juan__
 ## Repositorio Personal
 ### _Actual estudiante de sistemas segundo semestre_
-![Alt](https://www.pxfuel.com/en/desktop-wallpaper-ajtlv.png)
+![Alt](https://www.google.com/url?sa=i&url=https%3A%2F%2Fonlinepngtools.com%2Fcreate-transparent-png&psig=AOvVaw1M-zarQNpWli8JtjluDNee&ust=1694643913156000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKDN5dWOpoEDFQAAAAAdAAAAABAE)
 
 | Color | Código |
 | ----------- | ----------- |
