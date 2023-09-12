@@ -1,4 +1,4 @@
-### Me gusta el pene mmm que rico
+### Actual estudiante de sistemas segundo semestre
 
 <!--
 **Meniche/Meniche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
