@@ -1,7 +1,7 @@
 # __Juan__
 ## Repositorio Personal
 ### _Actual estudiante de sistemas segundo semestre_
-![Alt](https://www.google.com/url?sa=i&url=https%3A%2F%2Flearn.adafruit.com%2Fexcellent-github-profile%2Fadd-an-image&psig=AOvVaw0JRgJ4Hg933j69UGk8Lb3y&ust=1694643296471000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDFyq-MpoEDFQAAAAAdAAAAABAE.png)
+![Alt](https://www.pxfuel.com/en/desktop-wallpaper-ajtlv.png)
 
 | Color | Código |
 | ----------- | ----------- |
