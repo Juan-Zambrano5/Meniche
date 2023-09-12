@@ -1,5 +1,12 @@
-### **Actual estudiante de sistemas segundo semestre**
+# __Juan__
+## Repositorio Personal
+### _Actual estudiante de sistemas segundo semestre_
+![Alt](https://www.google.com/url?sa=i&url=https%3A%2F%2Flearn.adafruit.com%2Fexcellent-github-profile%2Fadd-an-image&psig=AOvVaw0JRgJ4Hg933j69UGk8Lb3y&ust=1694643296471000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDFyq-MpoEDFQAAAAAdAAAAABAE)
 
+| Color | Código |
+| ----------- | ----------- |
+| Rojo | #FF0000 |
+| Azul | #0000FF |
 <!--
 **Meniche/Meniche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
