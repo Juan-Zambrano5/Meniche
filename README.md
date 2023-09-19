@@ -1,5 +1,5 @@
 # __Juan__
-## Repositorio Personal
+## Personal Repository
 ![Alt](https://e1.pxfuel.com/desktop-wallpaper/824/251/desktop-wallpaper-picsart-cb-edit-backgrounds-png-background-thumbnail.jpg)
 
 ### 🔭 I’m currently studing ing the Universidad Mariana
