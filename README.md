@@ -101,35 +101,12 @@ public class proyecto3 {
 }
 ```
 
-## Despliegue (Deployment)
-
-Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
-
-
 ## Construido con
 
-Dropwizard : el marco web utilizado
-Maven - Gestión de dependencias
-ROMA : se utiliza para generar canales RSS
+Java: lenguaje utilizado para realizar el programa
+Eclipse: IDE usado para ejecutar Java
 
-## Versionado
-
-Usamos Git para el control de versiones. Para conocer las versiones disponibles, consulte las etiquetas en este repositorio .
 
 ## Autores
 
 * **Juan Zambrano**
-* **Danna Lagos**
-* **Anyeli Jaramillo** 
-
-
-## Licencia
-
-Este proyecto tiene la licencia MIT; consulte el archivo LICENSE.md para obtener más detalles.
-
-## Expresiones de gratitud (Acknowledgments)
-
-
-* Un consejo para cualquiera cuyo código se haya utilizado
-* Inspiración
-* etc
