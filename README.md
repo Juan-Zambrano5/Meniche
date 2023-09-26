@@ -6,7 +6,7 @@
 ### 🌱 I’m currently learning python and java
 ### 📫 How to reach me: juanmiguelzambrano2006@gmail.com
 
-/// ALGORITMOS Y PROGRAMACIÓN
+# ///ALGORITMOS Y PROGRAMACIÓN
 
 # Apo2
 ![Logo Java](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png)
